@@ -233,4 +233,5 @@ Pagination.Events = {
 	CHANGE_REQUEST: 'changeRequest'
 };
 
+export { Pagination };
 export default Pagination;
